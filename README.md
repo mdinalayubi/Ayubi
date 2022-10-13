@@ -3,4 +3,4 @@
 
 ### Hasil Screenshot
 ini adalah tampilannya
-![Gambar 1](screenshot/ss1.png)
+![Gambar 1](screenshot/ss.png)
